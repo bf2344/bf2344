@@ -9,8 +9,8 @@
 ### What I'm currently learning 
 🌱 GraphQL, React Native
 
-👯 I’m looking for working opportunities in Front-End, Back-end, or Full-Stack Development.
+👯 I’m looking for working opportunities in Front-End, Back-End, or Full-Stack Development.
 
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bf2344/)
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bf2344/) or feel free to email me @ [Brian Ford E-Mail](mailto:bf@bford.dev)
 
 ⚡ Fun fact: I am a huge sports fan and try to go to atleast one different NFL Stadium every season. 
