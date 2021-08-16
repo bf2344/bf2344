@@ -9,6 +9,9 @@
 ### What I'm currently learning 
 🌱 GraphQL, React Native
 
+### Checkout my Portfolio Page
+🔭 [Brian Ford Portfolio](https://bf2344.netlify.app)
+
 👯 I’m looking for working opportunities in Front-End, Back-End, or Full-Stack Development.
 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bf2344/) or feel free to email me @ [Brian Ford E-Mail](mailto:bf@bford.dev)
