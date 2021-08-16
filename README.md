@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Brian Ford 👋
 
 <!--
-**bf2344/bf2344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jethoo/jethoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+### What I'm focusing on 
+🔭 Currently focusing on The MERN Stack with TypeScript, as well as mastering everything I can about D3.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently learning 
+🌱 GraphQL, React Native
+
+👯 I’m looking for working opportunities in Front-End, Back-end, or Full-Stack Development.
+
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bf2344/)
+
+⚡ Fun fact: I am a huge sports fan and try to go to atleast one different NFL Stadium every season. 
