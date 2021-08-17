@@ -21,7 +21,7 @@ const brianFord = {
 ```
 
 
-### Checkout my Portfolio Page
+### Check out my Portfolio Page
 🔭 [Brian Ford Portfolio](https://bf2344.netlify.app)
 
 👯 I’m looking for working opportunities in Front-End, Back-End, or Full-Stack Development.
