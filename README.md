@@ -16,7 +16,8 @@
 
 > *pending...*
 
-![Bf2344's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=bf2344)
+<img src="https://github-readme-stats.vercel.app/api?username=bf2344&show_icons=true&count_private=true" alt="bf2344" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=bf2344.bf2344" alt="visitors"></p>
 
 <details>
   <summary>Click👆</summary>
