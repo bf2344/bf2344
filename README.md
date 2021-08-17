@@ -16,7 +16,7 @@
 
 > *pending...*
 
-![Brian's github stats](https://github-readme-stats.vercel.app/api?username=bf2344&show_icons=true&theme=dracula&hide=stars,issues)
+![Bf2344's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=bf2344)
 
 <details>
   <summary>Click👆</summary>
