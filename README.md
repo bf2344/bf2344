@@ -11,11 +11,9 @@
 
 👯 I’m looking for working opportunities in Front-End, Back-End, or Full-Stack Development.
 
-> *pending...*
-
 <img src="https://github-readme-stats.vercel.app/api?username=bf2344&layout=compact&text_color=daf7dc&bg_color=151515&show_icons=true&count_private=true" alt="bf2344" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bf2344&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bf2344/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bf2344&layout=compact&text_color=daf7dc&bg_color=151515&count_private=true)](https://github.com/bf2344/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bf2344&theme=dark)](https://git.io/streak-stats)
 
