@@ -16,7 +16,8 @@ const brianFord = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "MERN Stack with Typescript",
-    funFact: " I am a huge sports fan and try to go to atleast one different NFL Stadium every season."
+    funFact: " I am a huge sports fan and try to go to atleast one different NFL Stadium every season.",
+    contactMe: "bf@bford.dev"
 };
 ```
 
