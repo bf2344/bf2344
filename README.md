@@ -12,7 +12,7 @@ const brianFord = {
         devOps: ["AWS", "Nginx"],
         misc: ["Firebase", "Socket.IO", "Material-UI", "graphQL"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Full-Stack Applicationss"],
 }
 ```
 
