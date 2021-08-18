@@ -2,7 +2,7 @@
 
 ```javascript
 const brianFord = {
-    languages: ["javaScript", "typeScript", "python"]
+    languages: ["javaScript", "typeScript", "python"],
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express", "stripejs", "apollo server"],
@@ -12,7 +12,7 @@ const brianFord = {
         devOps: ["AWS", "Nginx"],
         misc: ["Firebase", "Socket.IO", "Material-UI", "graphQL"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Full-Stack Applicationss"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Full-Stack Applicationss"]
 }
 ```
 
