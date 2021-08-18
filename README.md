@@ -5,7 +5,7 @@ const brianFord = {
     languages: ["javaScript", "typeScript", "python"]
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "stripejs"],
+        backEnd: ["nodejs", "express", "stripejs", "apollo server"],
         frontEnd: ["react", "handlebars", "HTML", "CSS", "d3js"],
         mobileApp: ["react native"],
         database: ["mongo","mySql", "sqlite"],
