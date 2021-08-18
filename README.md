@@ -2,25 +2,19 @@
 
 ```javascript
 const brianFord = {
-    languages: ["JavaScript", "TypeScript", "Python"]
-    askMeAbout: ["web dev", "tech", "app dev", "sports"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "GraphQL", "Express", "REST"],
-        },
-          frontEnd: {
-            js: ["React", "Material-UI", "Handlebars", "D3"],
-        },
+    languages: ["javaScript", "typeScript", "python"]
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express", "stripejs"],
+        frontEnd: ["react", "handlebars", "HTML", "CSS", "d3js"],
+        mobileApp: ["react native"],
+        database: ["mongo","mySql", "sqlite"],
         devOps: ["AWS", "Nginx"],
-        databases: ["mongoDB", "MySql", "sqlite"]
+        misc: ["Firebase", "Socket.IO", "Material-UI", "graphQL"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "MERN Stack with Typescript",
-    funFact: " I am a huge sports fan and try to go to atleast one different NFL Stadium every season.",
-    contactMe: "bf@bford.dev"
-};
+}
 ```
-
 
 ### Check out my Portfolio Page
 🔭 [Brian Ford Portfolio](https://bf2344.netlify.app)
