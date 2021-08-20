@@ -4,7 +4,7 @@
 const brianFord = {
     languages: ["javaScript", "typeScript", "python"],
     askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
+    technologies: {
         backEnd: ["nodejs", "express", "stripejs", "apollo server"],
         frontEnd: ["react", "handlebars", "HTML", "CSS", "d3js"],
         mobileApp: ["react native"],
@@ -12,7 +12,7 @@ const brianFord = {
         devOps: ["AWS", "Nginx"],
         misc: ["Firebase", "Socket.IO", "Material-UI", "graphQL"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Full-Stack Applicationss"]
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Full-Stack Applications"]
 }
 ```
 
