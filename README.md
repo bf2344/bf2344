@@ -1,7 +1,7 @@
 ### Hi, I'm Brian Ford 👋
 
 ```javascript
-const brianFord = {
+const brianFord = { 
     languages: ["javaScript", "typeScript", "python"],
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
