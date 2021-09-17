@@ -25,4 +25,4 @@ const brianFord = {
 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bf2344/) or feel free to email me @ [bf@bford.dev](mailto:bf@bford.dev)
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=bf2344.bf2344" alt="visitors"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=bf2344.bf2344"></p>
