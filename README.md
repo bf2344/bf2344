@@ -2,6 +2,7 @@
 
 ```javascript
 const brianFord = { 
+    company: "GloveBox",
     languages: ["javaScript", "typeScript", "python"],
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
@@ -19,7 +20,6 @@ const brianFord = {
 ### Check out my Portfolio Page
 🔭 [Brian Ford Portfolio](https://bf2344.netlify.app)
 
-👯 I’m looking for working opportunities in Front-End, Back-End, or Full-Stack Development.
 
 <img src="https://github-readme-stats.vercel.app/api?username=bf2344&layout=compact&text_color=daf7dc&bg_color=151515&show_icons=true&count_private=true" alt="bf2344" />
 
