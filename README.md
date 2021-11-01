@@ -24,5 +24,3 @@ const brianFord = {
 <img src="https://github-readme-stats.vercel.app/api?username=bf2344&layout=compact&text_color=daf7dc&bg_color=151515&show_icons=true&count_private=true" alt="bf2344" />
 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bf2344/) or feel free to email me @ [bf@bford.dev](mailto:bf@bford.dev)
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=bf2344.bf2344"></p>
