@@ -8,7 +8,7 @@ const brianFord = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies: {
         backEnd: ["nodejs", "express", "stripejs", "apollo server"],
-        frontEnd: ["react", "redux", "HTML", "CSS", "d3js"],
+        frontEnd: ["react", "redux", "HTML", "CSS", "d3js", "java", "swift"],
         mobileApp: ["react native"],
         database: ["mongo","mySql", "sqlite"],
         devOps: ["AWS", "Nginx"],
